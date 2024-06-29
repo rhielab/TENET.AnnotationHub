@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.template\.md$
+^update_docs_and_readme\.R$
+^LICENSE$
+^doc$
+^Meta$
